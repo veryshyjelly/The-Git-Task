@@ -1,2 +1,2 @@
-This is the fourth commit.
-You should be reading this after step 1!
+This is the eighth commit.
+Second commit in the feature branch!
